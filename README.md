@@ -1,5 +1,3 @@
 # test-rss
 
-test
-
-New table example
+Another New Table Example
